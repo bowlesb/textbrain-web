@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="TextBrain">
+  <!-- TextBrain glyph: four text lines; the second is indented and accented —
+       a line of text, parked and filed. Ink bars flip for dark tabs. -->
+  <style>
+    .ink { fill: #26221c; }
+    @media (prefers-color-scheme: dark) { .ink { fill: #eae4d9; } }
+  </style>
+  <rect class="ink" x="8"  y="7"  width="48" height="9" rx="4.5"/>
+  <rect x="20" y="21" width="36" height="9" rx="4.5" fill="#b4552d"/>
+  <rect class="ink" x="8"  y="35" width="48" height="9" rx="4.5"/>
+  <rect class="ink" x="8"  y="49" width="30" height="9" rx="4.5"/>
+</svg>
